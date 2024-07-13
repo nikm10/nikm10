@@ -1,10 +1,10 @@
 
 
 - 👋 Hi, I’m @nikm10
-- I’m interested in App Developing and Animations
+- 👀 I’m interested in Cloud & Cybersecurity
 - 🔭 I’m currently working on my communication.
 - 🌱 I’m currently learning HTML and CSS.
-- 👯 I’m not looking to collaborate .
+- 👯 I’m looking to collaborate & experiment new things.
 - 🤔 I’m looking for help with none.
 - 📫 How to reach me: nikmeyyappan1@gmail.com
 - 😄 Pronouns: He/Him.
